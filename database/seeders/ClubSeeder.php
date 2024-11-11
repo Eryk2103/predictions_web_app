@@ -17,7 +17,7 @@ class ClubSeeder extends Seeder
         $clubs = ['Liverpool', 'Manchester City', 'Chelsea', 'Arsenal',
             'Nottingham Forest', 'Brighton & Hove Albion', 'Fulham',
              'Newcastle United', 'Aston Villa', 'Bournemouth', 'Brentford',
-             'Crystal Palace', 'Everton', 'Ipswich Town', 'Leiacester City',
+             'Crystal Palace', 'Everton', 'Ipswich Town', 'Leicester City',
              'Manchester United', 'Southampton', 'Tottenham Hotspur', 
              'West Ham United', 'Wolverhampton Wanderers'];
 
